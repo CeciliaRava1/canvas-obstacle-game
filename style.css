@@ -1,0 +1,26 @@
+* {
+    box-sizing: "border-box";
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+
+  canvas {
+    margin-top: 20px;
+  }
+
+
+  .controls-container {
+    display: flex;
+    align-items: center;
+    /* text-align: center; */
+  }
+
+  button {
+    padding: 20px 50px;
+    background-color: #ffed95;
+    color: black;
+    font-size: 36px;
+    margin-top: 20px;
+    border-radius: 12px;
+  }
