@@ -7,20 +7,13 @@
 
   canvas {
     margin-top: 20px;
+    background-color: #ffed95;
+    border: 3px solid #671616;
+    border-radius: 6px;
   }
 
 
   .controls-container {
     display: flex;
     align-items: center;
-    /* text-align: center; */
-  }
-
-  button {
-    padding: 20px 50px;
-    background-color: #ffed95;
-    color: black;
-    font-size: 36px;
-    margin-top: 20px;
-    border-radius: 12px;
   }
